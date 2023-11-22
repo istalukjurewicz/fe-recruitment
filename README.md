@@ -1,9 +1,10 @@
-# Ista FE recruitment: code challenge
+# Ista FE recruitment: code challenge introduction
 
 This is a simple app which show some random posts from jsonplaceholder API and switches them over time. 
 
-Please re-factor the code to meet your personal standards & preferences. 
-It's up to you how do you structure the files and what patterns you would like to apply.
+Please start by forking this repository. Now we ask you to re-factor the code to meet your personal standards & preferences. 
+It's only up to you how do you structure the files and what patterns you apply.
+Once done please push the code as private repo and grant the read-only access for my username (istalukjurewicz).
 
 Nice to have: you might add some unit tests if you wish (jest or karma).
 
